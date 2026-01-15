@@ -1,11 +1,41 @@
 ---
-title: "temp_website"
+title: "Welcome to My Digital Portfolio"
+format: html
 ---
 
-This is a Quarto website.
+## Hello! I'm De Qian
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**Year 1 Applied Computing Student at SIT | Former Temasek Polytechnic Financial Business Informatics Graduate | Data Automation Specialist**
 
-```{r}
-1 + 1
-```
+![Profile Photo](profile.jpg){fig-alt="Professional headshot in business attire" width="300px"}
+
+I'm a first-year Applied Computing student at Singapore Institute of Technology, bringing a unique blend of **financial domain knowledge** from Temasek Polytechnic's Financial Business Informatics diploma and **technical computing skills** from my current degree program. My passion lies in creating automated solutions that bridge the gap between financial operations and technology.
+
+### My Journey
+> **Temasek Polytechnic (2019-2023)** → Financial Business Informatics Diploma  
+> **Monetary Authority of Singapore (2022-2023, Internship)** → Data Automation Project  
+> **SIT (2023-Present)** → Applied Computing Degree
+
+### 🔧 Technical Arsenal
+- **Programming:** Python (Pandas, NumPy), SQL, R
+- **Automation Tools:** UiPath, Power Automate, Selenium
+- **Financial Systems:** MAS regulatory frameworks, insurance data standards
+- **Data Visualization:** Tableau, Power BI, Plotly
+
+### MAS Project Highlight
+Successfully automated manual data validation processes for MAS's Insurance Department, reducing processing time by **85%** and improving accuracy to **99.7%**.
+
+---
+
+## Quick Introduction Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Video: My journey from financial informatics to applied computing*
+
+---
+
+## Connect With Me
+- **Email:** 2502760@sit.singaporetech.edu.sg
+- **LinkedIn:** https://www.linkedin.com/in/chern-de-qian-958036240/
+- **GitHub:** https://github.com/DeQianSIT

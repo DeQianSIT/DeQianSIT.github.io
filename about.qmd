@@ -1,9 +1,36 @@
 ---
-title: "About"
+title: "FYP Project"
+format: html
 ---
 
-About this site
+## MAS Insurance Department: Automated Data Validation System
 
-```{r}
-1 + 1
-```
+### Project Overview
+**Organization:** Monetary Authority of Singapore (MAS) - Insurance Department  
+**Duration:** June 2022 - December 2022 (6 months internship)  
+**Role:** Automation Developer & Business Analyst  
+**Team:** 4-member cross-functional team (Business Users, IT, Compliance)
+
+### Problem Statement
+The Insurance Department manually validated **1,200+ monthly regulatory submissions** from 80+ insurance companies. Each submission required:
+- 45-60 minutes of manual checking
+- Cross-referencing against 15+ data sources
+- Compliance with 7 different regulatory frameworks
+- **Monthly total:** 900+ human-hours with 8-12% error rate
+
+### My Solution
+I designed and implemented a comprehensive **Python-based automated validation system** employing a **rule-based validation engine** that transformed the entire regulatory compliance workflow. The solution was architected around three core theoretical frameworks:
+
+## 1. Modular Validation Architecture
+The system was built on a **modular validation architecture** where each regulatory requirement was encapsulated as an independent validation module. This followed the **Single Responsibility Principle** from software engineering, allowing each validation rule to be developed, tested, and maintained independently. The architecture enabled:
+
+- **Rule Isolation:** Each MAS Notice requirement (e.g., solvency ratios, premium accuracy thresholds, claims reporting standards) became a standalone validation module
+- **Parallel Development:** Multiple team members could work on different regulatory modules simultaneously
+- **Hot-swappable Updates:** New MAS regulations could be added without disrupting existing validation workflows
+
+## 2. Multi-Source Data Integration Framework
+I implemented a **unified data integration framework** that created a single source of truth by harmonizing data from 15+ disparate sources. The framework employed:
+
+- **Data Normalization Algorithms:** Standardized varying data formats from different insurance companies into a common schema
+- **Temporal Alignment Techniques:** Synchronized data across different reporting periods and fiscal calendars
+- **Reference Data Management:** Created a master reference database for cross-validation against authoritative sources like IRAS tax data, ACRA corporate records, and MAS's internal regulatory database

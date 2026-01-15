@@ -1,0 +1,23 @@
+---
+title: "Reflection"
+format: html
+---
+
+## 🤖 Reflection on the Use of GenAI in My Website Development
+
+### **Introduction: Embracing AI as a Learning Partner**
+
+Throughout the development of this Quarto website portfolio, I actively utilized **ChatGPT (specifically DeepSeek)** as my primary GenAI tool. This reflection documents my experience, insights, and lessons learned about integrating artificial intelligence into academic and creative work.
+
+---
+
+## 🛠️ **Why I Chose ChatGPT/DeepSeek**
+
+**Accessibility & Context Understanding:** I selected ChatGPT because it demonstrated exceptional understanding of **technical documentation** (Quarto, R, Markdown) while maintaining conversational clarity. Unlike specialized coding assistants, it could help with everything from YAML configurations to content creation and troubleshooting.
+
+**Comprehensive Support:** The tool provided **end-to-end assistance**:
+- Technical implementation (Quarto website setup)
+- Content generation (project narratives)
+- Code debugging (R visualization errors)
+- Design suggestions (website structure)
+- Learning explanations (Markdown syntax)

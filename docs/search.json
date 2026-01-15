@@ -2,15 +2,148 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Welcome to My Digital Portfolio",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Year 1 Applied Computing Student at SIT | Former Temasek Polytechnic Financial Business Informatics Graduate | Data Automation Specialist\n\n\n\nProfile Photo\n\n\nI’m a first-year Applied Computing student at Singapore Institute of Technology, bringing a unique blend of financial domain knowledge from Temasek Polytechnic’s Financial Business Informatics diploma and technical computing skills from my current degree program. My passion lies in creating automated solutions that bridge the gap between financial operations and technology.\n\n\n\nTemasek Polytechnic (2019-2023) → Financial Business Informatics Diploma\nMonetary Authority of Singapore (2022-2023, Internship) → Data Automation Project\nSIT (2023-Present) → Applied Computing Degree\n\n\n\n\n\nProgramming: Python (Pandas, NumPy), SQL, R\nAutomation Tools: UiPath, Power Automate, Selenium\nFinancial Systems: MAS regulatory frameworks, insurance data standards\nData Visualization: Tableau, Power BI, Plotly\n\n\n\n\nSuccessfully automated manual data validation processes for MAS’s Insurance Department, reducing processing time by 85% and improving accuracy to 99.7%."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "FYP Project",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Organization: Monetary Authority of Singapore (MAS) - Insurance Department\nDuration: June 2022 - December 2022 (6 months internship)\nRole: Automation Developer & Business Analyst\nTeam: 4-member cross-functional team (Business Users, IT, Compliance)\n\n\n\nThe Insurance Department manually validated 1,200+ monthly regulatory submissions from 80+ insurance companies. Each submission required: - 45-60 minutes of manual checking - Cross-referencing against 15+ data sources - Compliance with 7 different regulatory frameworks - Monthly total: 900+ human-hours with 8-12% error rate\n\n\n\nI designed and implemented a comprehensive Python-based automated validation system employing a rule-based validation engine that transformed the entire regulatory compliance workflow. The solution was architected around three core theoretical frameworks:"
+  },
+  {
+    "objectID": "index.html#hello-im-your-name",
+    "href": "index.html#hello-im-your-name",
+    "title": "Welcome to My Digital Portfolio",
+    "section": "",
+    "text": "Year 1 Applied Computing Student at SIT | Former Temasek Polytechnic Financial Business Informatics Graduate | Data Automation Specialist\n\n\n\nProfile Photo\n\n\nI’m a first-year Applied Computing student at Singapore Institute of Technology, bringing a unique blend of financial domain knowledge from Temasek Polytechnic’s Financial Business Informatics diploma and technical computing skills from my current degree program. My passion lies in creating automated solutions that bridge the gap between financial operations and technology.\n\n\n\nTemasek Polytechnic (2019-2023) → Financial Business Informatics Diploma\nMonetary Authority of Singapore (2022-2023, Internship) → Data Automation Project\nSIT (2023-Present) → Applied Computing Degree\n\n\n\n\n\nProgramming: Python (Pandas, NumPy), SQL, R\nAutomation Tools: UiPath, Power Automate, Selenium\nFinancial Systems: MAS regulatory frameworks, insurance data standards\nData Visualization: Tableau, Power BI, Plotly\n\n\n\n\nSuccessfully automated manual data validation processes for MAS’s Insurance Department, reducing processing time by 85% and improving accuracy to 99.7%."
+  },
+  {
+    "objectID": "index.html#quick-introduction-video",
+    "href": "index.html#quick-introduction-video",
+    "title": "Welcome to My Digital Portfolio",
+    "section": "Quick Introduction Video",
+    "text": "Quick Introduction Video\n\n\nVideo: My journey from financial informatics to applied computing"
+  },
+  {
+    "objectID": "index.html#connect-with-me",
+    "href": "index.html#connect-with-me",
+    "title": "Welcome to My Digital Portfolio",
+    "section": "Connect With Me",
+    "text": "Connect With Me\n\nEmail: 2502760@sit.singaporetech.edu.sg\nLinkedIn: https://www.linkedin.com/in/chern-de-qian-958036240/\nGitHub: https://github.com/DeQianSIT"
+  },
+  {
+    "objectID": "index.html#hello-im-de-qian",
+    "href": "index.html#hello-im-de-qian",
+    "title": "Welcome to My Digital Portfolio",
+    "section": "",
+    "text": "Year 1 Applied Computing Student at SIT | Former Temasek Polytechnic Financial Business Informatics Graduate | Data Automation Specialist\n\n\n\nProfile Photo\n\n\nI’m a first-year Applied Computing student at Singapore Institute of Technology, bringing a unique blend of financial domain knowledge from Temasek Polytechnic’s Financial Business Informatics diploma and technical computing skills from my current degree program. My passion lies in creating automated solutions that bridge the gap between financial operations and technology.\n\n\n\nTemasek Polytechnic (2019-2023) → Financial Business Informatics Diploma\nMonetary Authority of Singapore (2022-2023, Internship) → Data Automation Project\nSIT (2023-Present) → Applied Computing Degree\n\n\n\n\n\nProgramming: Python (Pandas, NumPy), SQL, R\nAutomation Tools: UiPath, Power Automate, Selenium\nFinancial Systems: MAS regulatory frameworks, insurance data standards\nData Visualization: Tableau, Power BI, Plotly\n\n\n\n\nSuccessfully automated manual data validation processes for MAS’s Insurance Department, reducing processing time by 85% and improving accuracy to 99.7%."
+  },
+  {
+    "objectID": "about.html#mas-insurance-department-automated-data-validation-system",
+    "href": "about.html#mas-insurance-department-automated-data-validation-system",
+    "title": "FYP Project",
+    "section": "",
+    "text": "Organization: Monetary Authority of Singapore (MAS) - Insurance Department\nDuration: June 2022 - December 2022 (6 months internship)\nRole: Automation Developer & Business Analyst\nTeam: 4-member cross-functional team (Business Users, IT, Compliance)\n\n\n\nThe Insurance Department manually validated 1,200+ monthly regulatory submissions from 80+ insurance companies. Each submission required: - 45-60 minutes of manual checking - Cross-referencing against 15+ data sources - Compliance with 7 different regulatory frameworks - Monthly total: 900+ human-hours with 8-12% error rate\n\n\n\nI designed and implemented a comprehensive Python-based automated validation system employing a rule-based validation engine that transformed the entire regulatory compliance workflow. The solution was architected around three core theoretical frameworks:"
+  },
+  {
+    "objectID": "about.html#modular-validation-architecture",
+    "href": "about.html#modular-validation-architecture",
+    "title": "FYP Project",
+    "section": "1. Modular Validation Architecture",
+    "text": "1. Modular Validation Architecture\nThe system was built on a modular validation architecture where each regulatory requirement was encapsulated as an independent validation module. This followed the Single Responsibility Principle from software engineering, allowing each validation rule to be developed, tested, and maintained independently. The architecture enabled:\n\nRule Isolation: Each MAS Notice requirement (e.g., solvency ratios, premium accuracy thresholds, claims reporting standards) became a standalone validation module\nParallel Development: Multiple team members could work on different regulatory modules simultaneously\nHot-swappable Updates: New MAS regulations could be added without disrupting existing validation workflows"
+  },
+  {
+    "objectID": "about.html#multi-source-data-integration-framework",
+    "href": "about.html#multi-source-data-integration-framework",
+    "title": "FYP Project",
+    "section": "2. Multi-Source Data Integration Framework",
+    "text": "2. Multi-Source Data Integration Framework\nI implemented a unified data integration framework that created a single source of truth by harmonizing data from 15+ disparate sources. The framework employed:\n\nData Normalization Algorithms: Standardized varying data formats from different insurance companies into a common schema\nTemporal Alignment Techniques: Synchronized data across different reporting periods and fiscal calendars\nReference Data Management: Created a master reference database for cross-validation against authoritative sources like IRAS tax data, ACRA corporate records, and MAS’s internal regulatory database"
+  },
+  {
+    "objectID": "docs/data-visualization.html",
+    "href": "docs/data-visualization.html",
+    "title": "Data Visualization: Insurance Claims Analysis Dashboard",
+    "section": "",
+    "text": "Context: During my Financial Business Informatics diploma at Temasek Polytechnic (Year 3, Semester 2), I undertook a Capstone Project with a major Singaporean insurer. The project aimed to analyze 3 years of motor insurance claims data to identify patterns and optimize premium pricing strategies.\nCourse: FIN3201 - Business Intelligence & Analytics\nDuration: 4-month industry project\nTeam: 3 students + 2 industry mentors\nDataset: 45,000+ motor insurance claims (2019-2021) worth SGD 120+ million\nThe Challenge: The insurer’s pricing team relied on static Excel reports that showed basic aggregates (total claims, average cost) but couldn’t reveal: 1. Temporal patterns (seasonal, weekly, hourly trends) 2. Geographic hotspots for accidents 3. Vehicle-specific risk profiles 4. Correlations between multiple variables\nMy task was to create an interactive dashboard that transformed raw claims data into actionable insights for their actuarial team."
+  },
+  {
+    "objectID": "docs/data-visualization.html#data-visualization-insurance-claims-analysis-dashboard",
+    "href": "docs/data-visualization.html#data-visualization-insurance-claims-analysis-dashboard",
+    "title": "Data Visualization: Insurance Claims Analysis Dashboard",
+    "section": "",
+    "text": "Context: During my Financial Business Informatics diploma at Temasek Polytechnic (Year 3, Semester 2), I undertook a Capstone Project with a major Singaporean insurer. The project aimed to analyze 3 years of motor insurance claims data to identify patterns and optimize premium pricing strategies.\nCourse: FIN3201 - Business Intelligence & Analytics\nDuration: 4-month industry project\nTeam: 3 students + 2 industry mentors\nDataset: 45,000+ motor insurance claims (2019-2021) worth SGD 120+ million\nThe Challenge: The insurer’s pricing team relied on static Excel reports that showed basic aggregates (total claims, average cost) but couldn’t reveal: 1. Temporal patterns (seasonal, weekly, hourly trends) 2. Geographic hotspots for accidents 3. Vehicle-specific risk profiles 4. Correlations between multiple variables\nMy task was to create an interactive dashboard that transformed raw claims data into actionable insights for their actuarial team."
+  },
+  {
+    "objectID": "docs/data-visualization.html#visualization-rationale-design-decisions",
+    "href": "docs/data-visualization.html#visualization-rationale-design-decisions",
+    "title": "Data Visualization: Insurance Claims Analysis Dashboard",
+    "section": "Visualization Rationale & Design Decisions",
+    "text": "Visualization Rationale & Design Decisions\n\nWhy an Interactive Dashboard?\nTraditional static charts (bar, line, pie) failed to show the multi-dimensional relationships in the data. I chose a dashboard approach with linked visualizations because:\n\nMulti-variable Analysis: Claims data has 15+ dimensions (time, location, vehicle type, driver age, weather, etc.)\nExploratory Nature: Different stakeholders needed different views (actuaries vs. operations vs. marketing)\nDrill-down Capability: From high-level trends to individual claim details\nComparative Analysis: Side-by-side comparison of different segments\n\n\n\nChart Selection Rationale\n\n\n\n\n\n\n\n\nChart Type\nPurpose\nData Encoded\n\n\n\n\nHeat Map\nShow geographic accident hotspots\nLocation coordinates, claim frequency, claim severity\n\n\nTime Series Chart\nShow temporal patterns\nDate/time, claim count, average cost\n\n\nSunburst Diagram\nHierarchical breakdown\nVehicle type, Make, Model, Age\n\n\nScatter Plot Matrix\nCorrelation analysis\n6 key variables simultaneously\n\n\nParallel Coordinates\nMulti-dimensional profiling\n8+ risk factors per claim"
+  },
+  {
+    "objectID": "docs/data-visualization.html#the-visualization-what-was-visualized",
+    "href": "docs/data-visualization.html#the-visualization-what-was-visualized",
+    "title": "Data Visualization: Insurance Claims Analysis Dashboard",
+    "section": "The Visualization: What Was Visualized",
+    "text": "The Visualization: What Was Visualized\n\n1. Geographic Heat Map (Singapore)"
+  },
+  {
+    "objectID": "Data-visualization.html",
+    "href": "Data-visualization.html",
+    "title": "Data Visualization: Insurance Claims Analysis Dashboard",
+    "section": "",
+    "text": "Context: During my Financial Business Informatics diploma at Temasek Polytechnic (Year 3, Semester 2), I undertook a Capstone Project with a major Singaporean insurer. The project aimed to analyze 3 years of motor insurance claims data to identify patterns and optimize premium pricing strategies.\nCourse: FIN3201 - Business Intelligence & Analytics\nDuration: 4-month industry project\nTeam: 3 students + 2 industry mentors\nDataset: 45,000+ motor insurance claims (2019-2021) worth SGD 120+ million\nThe Challenge: The insurer’s pricing team relied on static Excel reports that showed basic aggregates (total claims, average cost) but couldn’t reveal: 1. Temporal patterns (seasonal, weekly, hourly trends) 2. Geographic hotspots for accidents 3. Vehicle-specific risk profiles 4. Correlations between multiple variables\nMy task was to create an interactive dashboard that transformed raw claims data into actionable insights for their actuarial team."
+  },
+  {
+    "objectID": "Data-visualization.html#data-visualization-insurance-claims-analysis-dashboard",
+    "href": "Data-visualization.html#data-visualization-insurance-claims-analysis-dashboard",
+    "title": "Data Visualization: Insurance Claims Analysis Dashboard",
+    "section": "",
+    "text": "Context: During my Financial Business Informatics diploma at Temasek Polytechnic (Year 3, Semester 2), I undertook a Capstone Project with a major Singaporean insurer. The project aimed to analyze 3 years of motor insurance claims data to identify patterns and optimize premium pricing strategies.\nCourse: FIN3201 - Business Intelligence & Analytics\nDuration: 4-month industry project\nTeam: 3 students + 2 industry mentors\nDataset: 45,000+ motor insurance claims (2019-2021) worth SGD 120+ million\nThe Challenge: The insurer’s pricing team relied on static Excel reports that showed basic aggregates (total claims, average cost) but couldn’t reveal: 1. Temporal patterns (seasonal, weekly, hourly trends) 2. Geographic hotspots for accidents 3. Vehicle-specific risk profiles 4. Correlations between multiple variables\nMy task was to create an interactive dashboard that transformed raw claims data into actionable insights for their actuarial team."
+  },
+  {
+    "objectID": "Data-visualization.html#visualization-rationale-design-decisions",
+    "href": "Data-visualization.html#visualization-rationale-design-decisions",
+    "title": "Data Visualization: Insurance Claims Analysis Dashboard",
+    "section": "Visualization Rationale & Design Decisions",
+    "text": "Visualization Rationale & Design Decisions\n\nWhy an Interactive Dashboard?\nTraditional static charts (bar, line, pie) failed to show the multi-dimensional relationships in the data. I chose a dashboard approach with linked visualizations because:\n\nMulti-variable Analysis: Claims data has 15+ dimensions (time, location, vehicle type, driver age, weather, etc.)\nExploratory Nature: Different stakeholders needed different views (actuaries vs. operations vs. marketing)\nDrill-down Capability: From high-level trends to individual claim details\nComparative Analysis: Side-by-side comparison of different segments\n\n\n\nChart Selection Rationale\n\n\n\n\n\n\n\n\nChart Type\nPurpose\nData Encoded\n\n\n\n\nHeat Map\nShow geographic accident hotspots\nLocation coordinates, claim frequency, claim severity\n\n\nTime Series Chart\nShow temporal patterns\nDate/time, claim count, average cost\n\n\nSunburst Diagram\nHierarchical breakdown\nVehicle type, Make, Model, Age\n\n\nScatter Plot Matrix\nCorrelation analysis\n6 key variables simultaneously\n\n\nParallel Coordinates\nMulti-dimensional profiling\n8+ risk factors per claim"
+  },
+  {
+    "objectID": "Data-visualization.html#the-visualization-what-was-visualized",
+    "href": "Data-visualization.html#the-visualization-what-was-visualized",
+    "title": "Data Visualization: Insurance Claims Analysis Dashboard",
+    "section": "The Visualization: What Was Visualized",
+    "text": "The Visualization: What Was Visualized\n\n1. Geographic Heat Map (Singapore)\n\n\n\n\n\nFigure 1: Motor Insurance Claims Distribution"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection",
+    "section": "",
+    "text": "Throughout the development of this Quarto website portfolio, I actively utilized ChatGPT (specifically DeepSeek) as my primary GenAI tool. This reflection documents my experience, insights, and lessons learned about integrating artificial intelligence into academic and creative work."
+  },
+  {
+    "objectID": "reflection.html#reflection-on-the-use-of-genai-in-my-website-development",
+    "href": "reflection.html#reflection-on-the-use-of-genai-in-my-website-development",
+    "title": "Reflection",
+    "section": "",
+    "text": "Throughout the development of this Quarto website portfolio, I actively utilized ChatGPT (specifically DeepSeek) as my primary GenAI tool. This reflection documents my experience, insights, and lessons learned about integrating artificial intelligence into academic and creative work."
+  },
+  {
+    "objectID": "reflection.html#why-i-chose-chatgptdeepseek",
+    "href": "reflection.html#why-i-chose-chatgptdeepseek",
+    "title": "Reflection",
+    "section": "🛠️ Why I Chose ChatGPT/DeepSeek",
+    "text": "🛠️ Why I Chose ChatGPT/DeepSeek\nAccessibility & Context Understanding: I selected ChatGPT because it demonstrated exceptional understanding of technical documentation (Quarto, R, Markdown) while maintaining conversational clarity. Unlike specialized coding assistants, it could help with everything from YAML configurations to content creation and troubleshooting.\nComprehensive Support: The tool provided end-to-end assistance: - Technical implementation (Quarto website setup) - Content generation (project narratives) - Code debugging (R visualization errors) - Design suggestions (website structure) - Learning explanations (Markdown syntax)"
+  },
+  {
+    "objectID": "reflection.html#how-genai-helped-complete-this-assessment",
+    "href": "reflection.html#how-genai-helped-complete-this-assessment",
+    "title": "Reflection",
+    "section": "💡 How GenAI Helped Complete This Assessment",
+    "text": "💡 How GenAI Helped Complete This Assessment\n\n1. Technical Implementation Support\nExample: When I struggled with Quarto’s _quarto.yml configuration, ChatGPT provided: ```yaml # Correct YAML structure provided by AI website: title: “My Portfolio” navbar: left: - href: index.qmd text: Home"
   }
 ]

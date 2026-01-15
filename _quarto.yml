@@ -3,20 +3,29 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "De Qian Website"
+  favicon: favicon.png
   navbar:
+    logo: logo.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: MAS Project
+      - href: data-visualization.qmd
+        text: Data Visualization
+      - href: reflection.qmd
+        text: GenAI Reflection
 
 format:
   html:
     theme:
-      - cosmo
+      - darkly
       - brand
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-location: left
 
 
 
